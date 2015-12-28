@@ -1,0 +1,24 @@
+{
+  "name": "Kumiko",
+  "version": "0.0.1",
+  "authors": [
+    "Ray Besiga <raybesiga@gmail.com>"
+  ],
+  "description": "Looking for that react treasure",
+  "keywords": [
+    "None"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "react": "git@github.com:reactjs/react-bower.git#~0.14.3"
+  }
+}

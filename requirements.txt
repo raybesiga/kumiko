@@ -1,0 +1,5 @@
+Django==1.9
+django-pipeline==1.5.4
+django-pipeline-browserify==0.2.0
+djangorestframework==3.3.2
+futures==3.0.3
